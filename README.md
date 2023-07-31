@@ -47,6 +47,7 @@ That will create a prompt for a URL
 |Interactive:|```party-scraper.py```|
 |Just Download:|```party-scraper.py URL```|
 |Resume/Update:|```party-scraper.py folder```|
+
 Note: 'Just Download' (using the URL parameter) uses the following defaults: folder name = service-user, download attachments/videos/text, scan/download immediately.
 
 ## **URL Formatting**
